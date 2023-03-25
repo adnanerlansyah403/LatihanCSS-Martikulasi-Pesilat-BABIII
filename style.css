@@ -1,0 +1,20 @@
+#table-siswa {
+    border-collapse: collapse;
+    /* background: url('image.jpg') 100% no-repeat; */
+    border: 1px solid white;
+    margin: auto;
+}
+#table-siswa td {
+    padding: 20px;
+}
+.link {
+    color: red;
+    text-decoration: none;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: green;
+}
+#table-siswa h3 {
+    font-size: 32px;
+}
